@@ -16,15 +16,22 @@ _texte en italique 2nd_
 la fonction `printf()` sert à afficher du tecte sur la console.
 
 Les 3 côte sont appeler un code bloc permet de copier directement le code, puis on spécifi que c'est du c++
-```c++
+```c
 for(int i = 0; i < 4; i++)
 {
-
+    printf ("Le code à été modifier"); //Atenzion code modifier
 }
 ```
 
 ```sql
 SELECT * FROM Users;
+```
+
+```java
+void main()
+{
+    system.out.println("Hello World!");
+}
 ```
 
 #Lien Hyper TEXT :
